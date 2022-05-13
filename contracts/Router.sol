@@ -18,10 +18,6 @@ import "./library/Library.sol";
 import "./library/TransferHelper.sol";
 import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
-
-
-
-
 // File: contracts\PancakeRouter.sol
 
 contract PancakeRouter is IPancakeRouter02 {
